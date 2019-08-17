@@ -5,3 +5,5 @@
 # textContent is from Colt Steele's Udemy course, Section 15, Chapter 182 on 
 # how to retrieve and change text
 # innerHTML also get the text, but also gets the html tags
+
+# Working on Colt Steele Udemy Section 5 Chapter 54
