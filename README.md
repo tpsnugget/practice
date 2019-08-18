@@ -7,3 +7,5 @@
 # innerHTML also get the text, but also gets the html tags
 
 # Working on Colt Steele Udemy Section 5 Chapter 54
+
+# Colt Steele, Udemy, Section 6, Chapters 57, 58, 59, 60

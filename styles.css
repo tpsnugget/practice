@@ -1,0 +1,56 @@
+/* 
+  goes with fonts.html
+  Colt Steele, Udemy, Section 6, Intermediate CSS, Chapter 57 Text and Fonts
+*/
+
+body {
+  background-image: url("photo-1556032731-54f085baa2e9.jpeg");
+  background-size: cover;
+}
+
+/* font-family */
+div {
+  font-family: PlayFair Display;
+  display: flex;
+  
+}
+
+h1 {
+  font-family: Georgia;
+}
+
+/* font-size */
+h1 {
+  font-size: 3em;
+}
+
+/* font-weight */
+p {
+  font-weight: bold;
+  width: 40%;
+  padding-right: 10%;
+}
+
+/* line-height */
+p {
+  line-height: 2;
+}
+
+
+/* text-align */
+p {
+  text-align: right;
+}
+
+/* 
+  text-decoration
+  
+  */
+  p {
+    text-decoration: line-through;
+  }
+
+  /* 
+    Google fonts
+    https://fonts.google.com/
+    */
