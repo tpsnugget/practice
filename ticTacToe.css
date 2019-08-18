@@ -1,0 +1,27 @@
+/* 
+  for ticTacToe.html
+*/
+
+h1 {
+  text-align: center;
+}
+
+/* This centers the table */
+table {
+  margin: 0 auto;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+}
+
+.middleCol {
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+
+.middleRow {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
