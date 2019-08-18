@@ -17,3 +17,6 @@
 # Colt Steele, Udemy, Photo Blog challenge Part 2
 
 # Colt Steele, Udemy, Blog challenge
+
+# basics.html is Section 7, starting to work with Bootstrap
+#   Started with buttons
