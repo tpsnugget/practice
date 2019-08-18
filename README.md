@@ -12,4 +12,6 @@
 
 # Colt Steele, Udemy, Tic Tac Toe challenge
 
-# Colt Steele, Udemy, Photo Blog challenge
+# Colt Steele, Udemy, Photo Blog challenge Part 1
+
+# Colt Steele, Udemy, Photo Blog challenge Part 2
