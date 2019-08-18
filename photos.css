@@ -1,0 +1,14 @@
+/* 
+  Mike Giebner
+  Image Gallery Code Along, Colt Steele, Udemy, Section 6, Chapters 65 and 67
+*/
+
+/* div {
+  display: flex;
+} */
+
+img {
+  float: left;
+  width: 30%;
+  margin: 1.66%;
+}
