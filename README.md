@@ -15,3 +15,5 @@
 # Colt Steele, Udemy, Photo Blog challenge Part 1
 
 # Colt Steele, Udemy, Photo Blog challenge Part 2
+
+# Colt Steele, Udemy, Blog challenge
