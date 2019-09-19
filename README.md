@@ -20,3 +20,6 @@
 
 # basics.html is Section 7, starting to work with Bootstrap
 #   Started with buttons
+#   Now on to the jumbotron
+#   Put inside <div class="containter"></div>  
+#   Forms
